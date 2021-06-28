@@ -69,7 +69,7 @@ This analysis applies Supervised Machine Learning models to predict Credit Risk.
 In conclusion, the analysis suggests when it comes to predicting Credit Risk out of these five machine learning models Easy Ensemble AdaBoost algorithm performs the best. As seen in the results, it has the least amount of False Negatives (Type II error) out of the five models. Not only that it also has the highest Recall score / sensitivity for detecting High Risk samples correctly and the models Precision score for low risk loans is at 100%. Taking all these factors into account, out of these five models i would recommend Easy Ensemble algorithm for predcting Credit Risk. 
 
 ## Resources
-Software
+Software/libraries:
 - Python 3.7
 - Pandas
 - imbalanced-learn
